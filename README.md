@@ -1,11 +1,11 @@
 # teste
 meu primeiro teste 
 #!/bin/bash
-#By Haboryn
+#meu aquivodsandjmx
 clear
 echo " "
 echo "              --------------------"
-echo "              O que deseja fazer ?"
+echo "              SE VIRA ?"
 echo -e '\033[05;31m---------------------------------------------------------\033[00;37m'
 echo "         Digite 1 para configurar servidor"
 echo "         Digite 2 para ligar o monitoramento de logins"
