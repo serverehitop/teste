@@ -8,11 +8,6 @@ echo "              --------------------"
 echo "              SE VIRA ?"
 echo -e '\033[05;31m---------------------------------------------------------\033[00;37m'
 echo "         Digite 1 para configurar servidor"
-echo "         Digite 2 para ligar o monitoramento de logins"
-echo "         Digite 3 para liberar o Torrent"
-echo "         Digite 4 para Bloquear o Torrent"
-echo "         Digite 5 para ver os logins online"
-echo "         Digite 6 para criar ou gerenciar logins"
 echo -e '\033[05;31m---------------------------------------------------------\033[00;37m'
 echo " "
 echo " "
